@@ -1,0 +1,13 @@
+.content-wrapper{
+    background-color: rgb(198, 216, 221);
+    justify-content: center;
+    
+}
+.container{
+    justify-content: center;
+    
+}
+
+.content{
+    margin-right: 8%;
+}

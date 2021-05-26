@@ -1,0 +1,15 @@
+img{
+    width: 128px;
+    height: 180px;
+}
+.place-info-box{
+    height: 180px;
+    width: 800px;
+}
+.place-info-box-text{
+    font-size: 20px;
+}
+.place-info-box-detail{
+    font-size: 15px;
+}
+
